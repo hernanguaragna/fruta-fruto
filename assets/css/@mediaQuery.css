@@ -1,0 +1,38 @@
+@media screen and (min-width:0){
+    .cabecera {
+    justify-content: center; 
+    padding: 0 1rem;
+
+    
+}
+}
+@media screen and (min-width:768px){
+    .cabecera {
+    justify-content: space-between; 
+    padding: 0 5rem;
+    
+    
+}
+}
+@media screen and (min-width:0){
+    .logo {
+    display: none;
+
+    
+}
+}
+@media screen and (min-width:768px){
+    .logo {
+    display: block;
+    
+    
+}
+}
+@media screen and(min-width: 0) {
+    .banner__imagen{
+        height: calc(100vh-51px);
+        width: 100%;
+        
+    }
+    
+    }
